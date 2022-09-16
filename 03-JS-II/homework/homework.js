@@ -7,7 +7,7 @@ function obtenerMayor(x, y) {
   // Tu código:
 }
 
-function mayoriaDeEdad(edad) {
+function mayoriaDeEdad(24) {
   //Determinar si la persona según su edad puede ingresar a un evento.
   //Si tiene 18 años ó más, devolver --> "Allowed"
   //Si es menor, devolver --> "Not allowed"
@@ -30,7 +30,8 @@ function saludo(idioma) {
   // Tu código:
 }
 
-function colors(color) {
+function colors("red") 
+{
   //La función recibe un color. Devolver el string correspondiente:
   //En caso que el color recibido sea "blue", devuleve --> "This is blue"
   //En caso que el color recibido sea "red", devuleve --> "This is red"
